@@ -1,0 +1,30 @@
+{
+    "name": "cyberpunk-2077-rebuild",
+    "displayName": "Cyberpunk 2077 rebuild",
+    "description": "Cyberpunk 2077 Theme extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "carlos18mz",
+    "author": {
+        "name":"carlos18mz"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "keywords": [
+        "vs code cyberpunk 2077 theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyberpunk 2077 rebuild",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyberpunk 2077 rebuild-color-theme.json"
+            }
+        ]
+    }
+}
