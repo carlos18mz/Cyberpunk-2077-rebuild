@@ -2,9 +2,12 @@
     "name": "cyberpunk-2077-rebuild",
     "displayName": "Cyberpunk 2077 rebuild",
     "description": "Cyberpunk 2077 Theme extension",
-    "version": "0.0.1",
+    "version": "0.0.7",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.0.0"
+    },
+    "repository": {
+        "name":"https://github.com/carlos18mz/Cyberpunk-2077-rebuild"
     },
     "publisher": "carlos18mz",
     "author": {
@@ -15,10 +18,12 @@
     "keywords": [
         "vs code cyberpunk 2077 theme"
     ],
+    "icon":"icon.jpg",
     "categories": [
         "Themes"
     ],
     "contributes": {
+
         "themes": [
             {
                 "label": "Cyberpunk 2077 rebuild",
